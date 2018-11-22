@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/tests/shorten-anonymous.test.js" line="9" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="ed99b401-1ced-40f5-a0b8-9678b057a409" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/private-personalized-shorten.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/private-personalized-shorten.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/shorten-anonymous.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/shorten-anonymous.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adminCredentials.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/register.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,46 +20,101 @@
     <session id="539386620">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="gitignore" value="1" />
           <entry key="jpeg" value="7" />
-          <entry key="js" value="12" />
-          <entry key="json" value="1" />
-          <entry key="png" value="20" />
+          <entry key="js" value="13" />
+          <entry key="json" value="2" />
+          <entry key="png" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="27" />
-          <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="12" />
+          <entry key="Image" value="33" />
+          <entry key="JSON" value="2" />
+          <entry key="JavaScript" value="13" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="1874" />
-          <entry key="json" value="33" />
+          <entry key="gitignore" value="6" />
+          <entry key="js" value="1909" />
+          <entry key="json" value="84" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="33" />
-          <entry key="JavaScript" value="1874" />
+          <entry key="JSON" value="84" />
+          <entry key="JavaScript" value="1909" />
+          <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/private-personalized-shorten.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="57" lean-forward="true" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+            <state relative-caret-position="368">
+              <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/register.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="44" column="52" selection-start-line="44" selection-start-column="52" selection-end-line="44" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/img/register/delete4.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/img/register/delete1.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/img/register/failedRegister1.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/img/register/failedRegister2.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/img/register/register1.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/img/register/register2.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adminCredentials.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -70,7 +123,7 @@
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
-              <caret line="4" column="57" lean-forward="true" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+              <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -95,6 +148,9 @@
         <option value="$PROJECT_DIR$/tests/shorten-anonymous.test.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/tests/private-personalized-shorten.test.js" />
+        <option value="$PROJECT_DIR$/adminCredentials.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/tests/register.test.js" />
       </list>
     </option>
   </component>
@@ -120,7 +176,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-125" />
     <option name="y" value="-18" />
     <option name="width" value="1400" />
@@ -150,6 +206,13 @@
               <item name="tests" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="module-test-puppeteer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="module-test-puppeteer" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="register" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -165,6 +228,9 @@
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\axel.dujardin\Documents\module-test-puppeteer\tests" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\axel.dujardin\Documents\module-test-puppeteer\tests" />
       <recent name="C:\Users\axel.dujardin\Documents\module-test-puppeteer\old_test" />
@@ -213,7 +279,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540456446614</updated>
-      <workItem from="1540456447763" duration="29811000" />
+      <workItem from="1540456447763" duration="31585000" />
+      <workItem from="1542883443056" duration="480000" />
+      <workItem from="1542884784048" duration="3621000" />
     </task>
     <servers />
   </component>
@@ -221,23 +289,35 @@
     <history-entry file="Shorten_Anonymous_private_personalized_shorten - 2018.10.25 at 16h 34m 24s.xml">
       <configuration name="Shorten Anonymous.private personalized shorten" configurationId="JavaScriptTestRunnerJest" />
     </history-entry>
+    <history-entry file="Shorten_Anonymous_private_personalized_shorten - 2018.11.22 at 16h 03m 10s.xml">
+      <configuration name="Shorten Anonymous.private personalized shorten" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Shorten_Anonymous_private_personalized_shorten - 2018.11.22 at 16h 19m 26s.xml">
+      <configuration name="Shorten Anonymous.private personalized shorten" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Shorten_Anonymous_private_personalized_shorten - 2018.11.22 at 16h 22m 13s.xml">
+      <configuration name="Shorten Anonymous.private personalized shorten" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Shorten_Anonymous_private_personalized_shorten - 2018.11.22 at 16h 22m 43s.xml">
+      <configuration name="Shorten Anonymous.private personalized shorten" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29811000" />
+    <option name="totallyTimeSpent" value="35686000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info id="npm" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.15511727" />
+      <window_info id="npm" order="1" sideWeight="0.5008183" side_tool="true" weight="0.15814696" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49918166" visible="true" weight="0.15814696" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.4483493" side_tool="true" weight="0.32930845" />
       <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" weight="0.32967034" />
-      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Find" order="4" visible="true" weight="0.32930845" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.5516507" weight="0.32930845" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -245,7 +325,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Terminal" order="3" visible="true" weight="0.28997868" />
+      <window_info active="true" anchor="right" id="Terminal" order="3" visible="true" weight="0.28966987" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,12 +344,8 @@
     <select />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tests/img/shorten2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/img/private-personalized-shorten1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/img/shorten2.png" />
+    <entry file="file://$PROJECT_DIR$/tests/img/private-personalized-shorten1.png" />
     <entry file="file://$PROJECT_DIR$/jest.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -283,15 +359,9 @@
     <entry file="file://$PROJECT_DIR$/setup.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/img/gotogit.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/img/shorten1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/img/logged.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/img/gotogit.png" />
+    <entry file="file://$PROJECT_DIR$/tests/img/shorten1.png" />
+    <entry file="file://$PROJECT_DIR$/tests/img/logged.png" />
     <entry file="file://$PROJECT_DIR$/node_modules/puppeteer/lib/FrameManager.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
@@ -345,34 +415,65 @@
     <entry file="file://$PROJECT_DIR$/tests/img/step1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/img/private-personalized-shorten2.png">
+    <entry file="file://$PROJECT_DIR$/tests/img/private-personalized-shorten2.png" />
+    <entry file="file://$PROJECT_DIR$/tests/img/generated-short-link.png" />
+    <entry file="file://$PROJECT_DIR$/tests/img/gotogit.jpeg" />
+    <entry file="file://$PROJECT_DIR$/tests/img/generated-short-link.jpeg" />
+    <entry file="file://$PROJECT_DIR$/tests/img/step5.jpeg">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminCredentials.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="4" column="57" lean-forward="true" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+          <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/img/generated-short-link.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/img/gotogit.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/img/generated-short-link.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/img/step5.jpeg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/private-personalized-shorten.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="57" lean-forward="true" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+        <state relative-caret-position="368">
+          <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/img/register/register1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/img/register/register2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/img/register/delete1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/register.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="44" column="52" selection-start-line="44" selection-start-column="52" selection-end-line="44" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/img/register/delete4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/img/register/failedRegister1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/img/register/failedRegister2.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
