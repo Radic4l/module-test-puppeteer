@@ -1,5 +1,6 @@
 Tests avec puppeteer
 ====================
+## Hello World
 
 [![Build Status](https://travis-ci.org/campus-digital-grenoble/module-test-puppeteer.svg?branch=master)](https://travis-ci.org/campus-digital-grenoble/module-test-puppeteer)
 
